@@ -1,0 +1,25 @@
+
+{
+    "custom_commands": {
+        "open youtube": {
+            "action": "open_url",
+            "url": "https://www.youtube.com"
+        },
+        "open gmail": {
+            "action": "open_url",
+            "url": "https://mail.google.com"
+        },
+        "open github": {
+            "action": "open_url",
+            "url": "https://github.com"
+        }
+    },
+
+    "knowledge_base": {
+        "who invented the telephone": "Alexander Graham Bell is widely credited with inventing the practical telephone.",
+        "what is python": "Python is a high-level, general-purpose programming language.",
+        "what is ai": "Artificial intelligence is a field of computer science that develops systems capable of performing tasks that normally require human intelligence.",
+        "what is ml": "Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data."
+    }
+}
+
